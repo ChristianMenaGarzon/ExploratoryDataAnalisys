@@ -64,6 +64,10 @@ Los ejercicios incluyen:
 
 Los ejercicios fueron desarrollados y ejecutados en Visual Studio Code utilizando Jupyter Notebook. Las soluciones fueron acompañadas de documentación en Markdown para explicar los conceptos y procedimientos utilizados.
 
+## Reflexión
+
+Disfruté mucho realizando este laboratorio. Aunque varios de los conceptos trabajados ya los había visto en clases anteriores durante el semestre, reforzarlos y aplicarlos directamente en Python fue una experiencia muy útil. La práctica me permitió consolidar estos conocimientos y comprender mejor cómo utilizarlos en situaciones reales. Considero que el dominio de estas herramientas y conceptos será de gran utilidad para mi formación profesional y para futuros proyectos en Python.
+
 ## Autor
 
 Christian Mena Garzón
